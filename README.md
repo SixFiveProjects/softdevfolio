@@ -1,4 +1,4 @@
-# Softdevfolio ![GitHub License](https://img.shields.io/github/license/sithu-khant/softdevfolio) ![GitHub Repo stars](https://img.shields.io/github/stars/sithu-khant/softdevfolio) ![GitHub forks](https://img.shields.io/github/forks/sithu-khant/softdevfolio)
+# Softdevfolio ![GitHub License](https://img.shields.io/github/license/SixFiveProjects/softdevfolio) ![GitHub Repo stars](https://img.shields.io/github/stars/SixFiveProjects/softdevfolio) ![GitHub forks](https://img.shields.io/github/forks/SixFiveProjects/softdevfolio)
 
 Awesome Portfolio Template for Software Engineers/Developers.
 
